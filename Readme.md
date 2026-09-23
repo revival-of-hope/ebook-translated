@@ -1,1 +1,1 @@
-放一些Google/Deepseek翻译后的双语/中文版技术书籍,Good Books Only!
+放一些Google/Deepseek翻译后的双语/中文版技术书籍,但也会放一点中文版的好书,Good Books Only!
